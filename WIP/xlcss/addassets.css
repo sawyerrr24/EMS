@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-image: url('4k.jpg');
+    background-position: center;
+    background-size:cover; 
+    font-family:sans-serif;
+    padding:80px;
+    height: 90vh;
+    
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    font-size: larger;
+   color: white;
+}
+
+.boxx{
+    width: 900px;
+    float: right;
+   
+   
+}
+
+
+.page-links{
+
+    text-decoration: none;
+    color: white;
+   
+}
+
+
+h5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.boxx ul li{
+    width: 180px;
+    float: left;
+    margin: 5px auto;
+    text-align: center;
+  
+  
+}
+
+.boxx ul li a{
+   text-decoration: none;
+   color: white;
+}
+
+.boxx ul li :hover{background-color: orange;
+border-radius: 5px;}
+
+.boxx ul li a :hover{color: white;}
+
+.nameemp{
+    color: white;
+    margin-left: 29%;
+   margin-top: 70px;
+    
+}
+
+.inp{
+    border-radius: 7px;
+    width: 30%;
+    height: 25px;
+    text-align: justify;
+    background-color: aliceblue;
+}
+
+.nameasset{
+    font-size: larger;
+    color:  white;
+    margin-top: 130px;
+    margin-left: 30%;
+}
+
+
+
+
+
+
+.save{
+    margin-left: 80%;
+margin-bottom: 150px;
+height: 3px;
+color:      white;
+text-align: center;
+border-color: white;
+}
+
+.button{
+    display:block;
+    color:  black;
+        width: 110px;
+        margin-left: 40px;
+       text-decoration: none;
+        margin-top: -20px;
+        
+        background-color: aliceblue;
+        border-radius:12px;
+}
+
+
+
